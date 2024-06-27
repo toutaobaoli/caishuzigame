@@ -29,7 +29,7 @@ document.getElementById("jj").value=''
 }
 
 
-  else if(az===num){ 
+  else if(az==num){ 
     
     document.getElementById("chu").innerHTML='恭喜你猜对了,总共猜了'+ws+'次'
       }
