@@ -1,0 +1,21 @@
+body {
+  text-align:center;
+  background-color: gray;
+}
+#deng{
+  background:lightblue;
+  margin-top: 100px;
+  width:125px;
+  height: 125px;
+  text-align: center;
+}
+#jj{
+  width:250px; 
+  text-align:center;
+  letter-spacing:10px;
+  
+}
+#ti{
+  margin-top: 50px;
+  
+}
